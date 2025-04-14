@@ -1,4 +1,4 @@
-# EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
+![WhatsApp Image 2025-04-14 at 21 45 10_4441f216](https://github.com/user-attachments/assets/f72e0ccb-4869-4a83-af3f-0891263e9efd)# EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
  
 
 1.Experimental Verification Of Signal Sampling Using Various Types Such as 
@@ -38,7 +38,8 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 ![graph](https://github.com/user-attachments/assets/13419b45-9067-4d60-b7f8-1aaeaf02f460)
 
 ## TABLE
-![table](https://github.com/user-attachments/assets/1cb0f2c0-5c5d-45cb-941c-e64c37597980)
+![table](https://github.com/user-attachments/assets/91f04708-8aec-4beb-b158-2aa9af6b86a7)
+
 
 ## OUTPUT GRAPHS
 #Natural Sampling
