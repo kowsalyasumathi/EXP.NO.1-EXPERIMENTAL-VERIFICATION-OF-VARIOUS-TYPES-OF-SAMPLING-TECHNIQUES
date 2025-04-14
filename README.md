@@ -1,7 +1,5 @@
-![WhatsApp Image 2025-04-14 at 21 45 10_4441f216](https://github.com/user-attachments/assets/f72e0ccb-4869-4a83-af3f-0891263e9efd)# EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
- 
-
-1.Experimental Verification Of Signal Sampling Using Various Types Such as 
+# EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
+ 1.Experimental Verification Of Signal Sampling Using Various Types Such as 
     i) Natural Sampling
     ii) Flat Top Sampling
 
