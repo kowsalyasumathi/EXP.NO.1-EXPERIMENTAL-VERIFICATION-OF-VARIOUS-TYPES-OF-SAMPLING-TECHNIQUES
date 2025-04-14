@@ -42,10 +42,12 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 
 ## OUTPUT GRAPHS
 #Natural Sampling
-![natural output](https://github.com/user-attachments/assets/4cbae500-a6e2-48f1-8738-2f35054bf979)
+![natural output](https://github.com/user-attachments/assets/396b2286-08dd-41c5-ba2f-539881ff6e27)
+
 
 #Flattop Sampling
-![Flattop output](https://github.com/user-attachments/assets/fa1234b1-4612-4f43-87a8-fbf09614c82d)
+![flattop sampling](https://github.com/user-attachments/assets/ef04f029-145f-41cc-8c75-29b23c9f19dd)
+
 
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques.
